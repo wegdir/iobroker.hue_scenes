@@ -1,8 +1,8 @@
 var HueApi = require("node-hue-api").HueApi;
 
 // Replace IP and username!!!
-var host = "192.168.x.x",
-    username = "xxxxxxxxxx",
+var host = "192.168.178.075",
+    username = "1S-j0ACWX4GlWxeuvk3WE7TQnbrNgfS3x7pXffBJ",
     api = new HueApi(host, username);
     
 var groups_ = [],
